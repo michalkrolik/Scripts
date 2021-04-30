@@ -1,0 +1,11 @@
+{ "secrets" :
+              {
+                "account"   : "oma66570.us-east-1",
+                "user"      : "sf_user",
+                "warehouse" : "sf_warehouse",
+                "role"      : "sf_role",
+                "database"  : "database_name",
+                "schema"    : "schema_name",
+                "password"  : "password"
+              }
+}
